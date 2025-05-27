@@ -72,3 +72,9 @@
       + host_id: Foreign Key, references User(user_id)
       + name: VARCHAR, NOT NULL
     
+  # Feature Breakdown
+    +  _User Authentication_
+    +  _Property Management_
+    +  _Booking System_
+    +  _Payment Processing_
+    +  _Review System_
