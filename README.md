@@ -78,3 +78,12 @@
     +  _Booking System_
     +  _Payment Processing_
     +  _Review System_
+
+  # Api Security 
+
+  This Project use diferrent methods of authentication and authorization  
+  to grant access to user to ensure their data and privacy are protected.
+  Also it needs to ensure that payment that are made are secured and doesn't
+  expose user credentials and their credit cards information.
+
+
