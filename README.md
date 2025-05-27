@@ -15,7 +15,7 @@
     6. Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
   ## Tech stack 
     This project will phocas on:
-    _ Django
+    +Django
     + Django Rest Framework
     + Postegresql
     + Graphql 
