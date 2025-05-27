@@ -79,7 +79,7 @@
     +  _Payment Processing_
     +  _Review System_
 
-  # Api Security 
+  # API Security 
 
   + This Project use diferrent methods of authentication and authorization  
     to grant access to user to ensure their data and privacy are protected.
