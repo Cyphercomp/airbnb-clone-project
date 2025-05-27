@@ -3,7 +3,11 @@
 # Description
 
   ## Objective
-    The backend for the Airbnb Clone project is designed to provide a robust and scalable foundation for managing user interactions, property listings, bookings, and payments. This backend will support various functionalities required to mimic the core features of Airbnb, ensuring a smooth experience for users and hosts.
+     The backend for the Airbnb Clone project is designed to provide\
+     a robust and scalable foundation for managing user interactions,\
+     property listings, bookings, and payments. This backend will\
+     support various functionalities required to mimic the core\
+     features of Airbnb, ensuring a smooth experience for users and hosts.
 
   ## Project Goals
   
@@ -21,21 +25,21 @@
    retrieval and storage through database optimizations.
   ## Tech stack 
  _This project will phocas on_:
-   + Django
-   + Django Rest Framework
-   + Postegresql
-   + Graphql 
-   + Celery 
-   + Redis 
-   + Docker
-   + CI/CD Pipelines
+   +  __Django__
+   +  __Django Rest Framework__
+   +  __Postegresql__
+   +  __Graphql__ 
+   +  __Celery__ 
+   +  __Redis__ 
+   +  __Docker__
+   +  __CI/CD Pipelines__ 
 
 # Team Roles 
-  + Backend Developer: Responsible for implementing 
+  +  __Backend Developer__: Responsible for implementing   
   API endpoints, database schemas,  and     business logic.
-  + Database Administrator: Manages database design, 
+  +  __Database Administrator__: Manages database design, 
   indexing, and optimizations.
-  + DevOps Engineer: Handles deployment, monitoring, 
+  +  __DevOps Engineer__: Handles deployment, monitoring, 
   and scaling of the backend services.
-  + QA Engineer: Ensures the backend functionalities 
+  +  __QA Engineer__: Ensures the backend functionalities 
   are thoroughly tested and meet quality standards.
