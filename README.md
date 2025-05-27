@@ -55,4 +55,20 @@
   +  __Docker__: Containerization tool for consistent development and deployment environments.
   +  __CI/CD Pipelines__: Automated pipelines for testing and deploying code changes.
 
-  
+  # Database Design
+
+    +  __User__
+      + user_id: Primary Key, UUID, Indexed
+      + first_name: VARCHAR, NOT NULL
+      + last_name: VARCHAR, NOT NULL
+
+    +  __Property__
+      + property_id: Primary Key, UUID, Indexed
+      + host_id: Foreign Key, references User(user_id)
+      + name: VARCHAR, NOT NULL
+
+    +  __Booking__
+      + property_id: Primary Key, UUID, Indexed
+      + host_id: Foreign Key, references User(user_id)
+      + name: VARCHAR, NOT NULL
+    
